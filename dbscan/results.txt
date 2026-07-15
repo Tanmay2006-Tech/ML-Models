@@ -1,0 +1,2 @@
+adjusted_rand_index: 0.9253
+silhouette: 0.6957

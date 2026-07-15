@@ -1,0 +1,2 @@
+input shape: (1797, 64)
+output shape: (1797, 2)

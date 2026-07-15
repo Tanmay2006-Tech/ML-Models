@@ -1,0 +1,1 @@
+test loss (recon + kl): 7.1716

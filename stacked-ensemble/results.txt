@@ -1,0 +1,6 @@
+stacked ensemble rmse: 52.6007
+stacked ensemble r2: 0.4778
+meta-learner weight (linear): 0.7296
+meta-learner weight (random_forest): 0.1461
+meta-learner weight (gradient_boosting): -0.1573
+meta-learner weight (svr): 0.3474
